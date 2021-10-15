@@ -1,0 +1,9 @@
+Link admin : localhost/inventaris_app3/auth/login
+
+Admin 
+email : anasfebrian0@gmail.com
+pass  : anas123
+
+Instansi Kominfo :
+email  : famuziaa@gmail.com
+pass   : andera123
